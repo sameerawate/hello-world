@@ -1,2 +1,2 @@
-# hello-sameer
-hello world repository
+# hello-world
+hello sameer repository
